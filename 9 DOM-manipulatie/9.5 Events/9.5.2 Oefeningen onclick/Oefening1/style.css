@@ -1,0 +1,9 @@
+#subscribe-button {
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    font-size: 50pt;
+    border: none;
+}
